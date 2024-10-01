@@ -1,0 +1,10 @@
+{
+  "title": "Image to Text",
+  "description": "This integration allows users to get a caption for their image using a Huggingface model.",
+  "categories": [
+    "Image",
+    "Image Captioning",
+    "AI Engine"
+  ],
+  "deltav": true
+}
